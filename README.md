@@ -1,2 +1,2 @@
 # Php
-Curso de php
+Curso de php para principiantes
